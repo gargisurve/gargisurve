@@ -18,7 +18,7 @@ Machine Learning · Natural Language Processing · AI for Science · Healthcare 
 
 ### Technologies
 
-Python · Scikit-learn · Pandas · NumPy · Streamlit · MySQL · Git
+Python · R · MySQL · GitHub · Google Colab · Jupyter Notebook · Java
 
 ---
 
