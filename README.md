@@ -6,7 +6,7 @@
 
 Exploring patterns in data, building intelligent systems, and discovering new possibilities at the intersection of AI and science.
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/gargi-surve-a7aba5283/) · [Email](mailto:gargiwise@gmail.com)
 
 </div>
 
