@@ -25,5 +25,6 @@ Python · R · MySQL · GitHub · Google Colab · Jupyter Notebook · Java
 <div align="center">
 
 *Curious by nature. Analytical by habit. Always learning.*
+
 ♥
 </div>
